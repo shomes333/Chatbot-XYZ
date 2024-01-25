@@ -1,0 +1,21 @@
+Que es LegalHub
+LegalHub es una plataforma de tecnología legal que se centra en la gestión y automatización de procesos legales. Proporciona soluciones para ayudar a las empresas a gestionar y cumplir con sus requisitos legales y regulatorios de manera eficiente.
+
+Casos de Éxito
+Soul:la nueva plataforma de gestión de Despegar
+DocBoard: la herramienta de gestión de documentos de Mercado Libre
+Lúnigo: Automatizazión de contratos.
+
+Cuentame de Soul: la nueva plataforma de gestión de Despegar
+Resumen: La pandemia del COVID-19 provocó el cierre de fronteras de distintos países Esto, junto a otras medidas sanitarias, significaron una paralización en el transporte aéreo de pasajeros y en otros servicios relacionados con el turismo En este contexto, Despegar, la empresa de viajes líder en Latinoamérica fue una de las más afectadas 
+
+Legal Hub diseñó para Despegar una plataforma de gestión de reclamos que centraliza las herramientas necesarias para dar respuesta a los clientes disconformes de todo América Latina, apostando por la transformación digital.
+
+Cuentame de Mercado Libre: Legal Hub creó para Mercado Libre una herramienta que reúne el gran volumen de documentos legales que ingresan en la compañía, permitiendo su tratamiento y revisión de forma más organizada, rápida y eficiente. Además, automatiza muchos de los procesos involucrados en esta gestión, como la consulta a bases de datos y la elaboración de respuestas a oficios.
+
+Cuentame de lúnigo: Iúnigo: Automatización de contratos
+para Iúnigo un mecanismo para automatizar la generación y la firma de acuerdos extrajudiciales, que provee mayor seguridad y certeza a esta compañía aseguradora que opera de manera 100% digital Usamos la herramienta Docassemble y tecnología Blockchain con el objetivo de establecer un proceso personalizado, interactivo y atractivo para el usuario, en el marco de un ecosistema de confianza para ambas partes.
+
+Tenemos Blog,
+Claro En nuestra empresa, contamos con un blog que aborda las últimas novedades en tecnología y otros temas relacionados En nuestro sitio web, encontrarás artículos informativos sobre avances tecnológicos, tendencias de la industria y otras noticias relevantes.
+
